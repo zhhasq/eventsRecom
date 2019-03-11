@@ -1,3 +1,3 @@
 # README
-<video src="https://youtu.be/YIdPcBqvMC4" width="320" height="200" controls preload></video>
-
+Demo: click to view
+[![](http://img.youtube.com/vi/cIJlQOTnPCE/0.jpg)](http://www.youtube.com/watch?v=cIJlQOTnPCE "")
