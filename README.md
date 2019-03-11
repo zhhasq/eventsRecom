@@ -1,7 +1,7 @@
 # TicketMaster with recommendations
 
 **Demo: click to view Youtube**</br>
-[![](http://img.youtube.com/vi/cIJlQOTnPCE/0.jpg)](http://www.youtube.com/watch?v=cIJlQOTnPCE "")
+[![](http://img.youtube.com/vi/cIJlQOTnPCE/0.jpg)](https://youtu.be/cIJlQOTnPCE "")
 
 **Demo: click to view Youku**</br>
 [![](http://img.youtube.com/vi/cIJlQOTnPCE/0.jpg)](http://player.youku.com/embed/XNDA5MzkwNzQ4OA== "")
